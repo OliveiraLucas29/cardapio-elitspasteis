@@ -5,7 +5,14 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: #A44141;
+}
 main {
     max-width: 1080px;
     min-width: 300px;
+    margin: auto;
+}
+img {
+    width: 100%;
 }
