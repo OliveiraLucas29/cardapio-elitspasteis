@@ -6,7 +6,13 @@
     padding: 0px;
 }
 body{
-    background-color: #A44141;
+    background-color: #ff7733;
+}
+header {
+    display: flex;
+    max-width: 1080px;
+    margin: auto;
+    background-color: #F36300;
 }
 main {
     max-width: 1080px;
@@ -15,4 +21,28 @@ main {
 }
 img {
     width: 100%;
+    margin-bottom: -5px;
+}
+.logo {
+    padding: 20px;
+    max-width: 200px;
+    width: 100%;
+}
+.whats {
+    margin: 15px auto;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #1BD741;
+    vertical-align: middle;
+    color: #fff;
+    border-radius: 6px;
+}
+.img-whats {
+    width: 25px;
+}
+footer {
+    display: flex;
+    max-width: 1080px;
+    margin: auto;
+    background-color: #F36300;
 }
