@@ -7,7 +7,7 @@
 }
 body{
     background-color: #ff7733;
-    font-family: 'Aleo';
+    font-family: 'Aleo', serif;
 }
 header {
     display: flex;
@@ -32,11 +32,12 @@ img {
 .whats {
     margin: 15px auto;
     padding: 10px;
+    padding-right: 13px;
     text-decoration: none;
     background-color: #1BD741;
-    vertical-align: middle;
     color: #fff;
     border-radius: 6px;
+    font-size: 1.1em;
 }
 .img-whats {
     width: 25px;
